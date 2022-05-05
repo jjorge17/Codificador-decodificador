@@ -7,7 +7,7 @@
 body {
   background-color:lightskyblue;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-image: url("../img/aurora-polar.jpg");
+  background: url("../img/aurora-polar.jpg") center no-repeat;
 }
 .main {
   width: 80vw;

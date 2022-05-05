@@ -20,7 +20,13 @@ var text = textoIngresado;
     }
         
 //colocar mensaje en msg
+/*
+var dato1 = "letra";
+var dato2 = "clave";
+
+txtEncriptado.value = codificar(textoIngresado,dato1,dato2);
+
+*/
+
 txtEncriptado.value = textoEncriptado;
 });
-
-    
