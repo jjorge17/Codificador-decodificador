@@ -18,7 +18,8 @@ body {
 
 .titulo {
   color:lightyellow;
-  padding: 15px;
+  font-size: 2.5rem;
+  padding: 30px;
   width: 30vw;
   margin: auto;
 
